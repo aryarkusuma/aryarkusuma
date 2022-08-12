@@ -1,5 +1,5 @@
 # Hello im Arya, 22, and im dumb
-#### and not really smart on anything in particular, just someone who trying to code, and finishing his collage final year  
+#### and not really smart on anything in particular, just someone who trying to code, and finishing his collage degree 
 ##### 
 :worried:
 #### My lab :

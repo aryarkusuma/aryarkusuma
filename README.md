@@ -3,4 +3,4 @@
 ##### 
 :worried:
 #### My lab :
-#### - [Image Webp Converter on the fly](https://webp.projectxi.my.id/ "Heading link")
+#### - [Image to Webp Resizer-Converter on the fly](https://webp.projectxi.my.id/ "Heading link")
